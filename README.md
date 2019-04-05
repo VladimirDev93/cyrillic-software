@@ -23,9 +23,9 @@ openssl aes-256-cbc -d -a -in settings.json.enc -out settings.json
 
 # Install (Cloud)
 
-The application can be deployed on Heroku with Meteor build pack. To deploy on Cloud hosting service like Heroku, follow [this guide]('https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234').
+The application can be deployed on Heroku with Meteor build pack. To deploy on Cloud hosting service like Heroku, follow [this guide](https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234).
 
-I have deployed a working version on Heroku, which you can checkout [here]('https://cyrillic-software.herokuapp.com/').
+I have deployed a working version on Heroku, which you can checkout [here](https://cyrillic-software.herokuapp.com/).
 
 The reason I deployed the app on Heroku is because AWS and Microsoft Azure require a credit card in order to sign up, 
 which I don't currently have.
